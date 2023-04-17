@@ -79,6 +79,7 @@ ul {
     justify-content: space-between;
     margin: 0;
     padding: 0;
+    margin-top: 10px;
     margin-bottom: 32px;
 }
 
@@ -120,6 +121,7 @@ button {
     font-family: inherit;
     cursor: pointer;
     transition: all 0.25s ease-in-out;
+    text-transform: uppercase;
 }
 
 button:hover {
